@@ -2,6 +2,10 @@
   <h4 align="center">RocketNotes</h4>
 </p>
 
+<p align="center">
+  <img width="800" src="./src/assets/Capa.png">
+</p>
+
 ## 💻 About:
 
 The application developed is to manage notes useful links, where it is necessary to authenticate to enter the application through the login screen.
@@ -43,7 +47,7 @@ The user can create a new note, and on the Home page see all the notes he has al
 The layout of the application is available in Figma:
 
 <a href="https://www.figma.com/file/j7uqZB23TCh3GiVqJOK3bp/RocketNotes-(Copy)?node-id=0%3A1&mode=dev">
-  <img alt="Made by tgmarinho" src="./src/assets/Capa.png">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 
