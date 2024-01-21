@@ -1,9 +1,5 @@
 <p align="center">
-  <h4 align="center"><a href="https://foodexpl0rer.netlify.app">foodexpl0rer.netlify.app</a></h4>
-</p>
-
-<p align="center">
-  <img width="800" src="./src/assets/responsivo.png">
+  <h4 align="center">RocketNotes</h4>
 </p>
 
 ## 💻 About:
