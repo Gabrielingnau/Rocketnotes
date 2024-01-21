@@ -9,6 +9,11 @@ export const Container = styled.div`
 
   padding: 22px;
   margin-bottom: 16px;
+  cursor: pointer;
+
+:hover {
+  filter: brightness(0.9);
+}
 
   > h1 {
     flex: 1;

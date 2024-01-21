@@ -1,7 +1,7 @@
 import { Container } from "./styles";
 import { Tag } from "../Tag";
 
-export function Note ({data, ...rest}) {
+export function Note ({data, onClick, ...rest}) {
 
     return (
         <Container>
@@ -11,7 +11,9 @@ export function Note ({data, ...rest}) {
             data.tags && 
             <footer>
                 {
-                    data.tags.map(tag => <Tag key={tag.id} title={tag.name}/>)
+                    data.tags.map(tag => <Tag key={tag.id} title={tag.name}
+                    onClick={onClick}
+                    />)
                 }
             </footer>
           }
